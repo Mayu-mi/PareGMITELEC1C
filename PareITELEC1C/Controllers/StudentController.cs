@@ -20,7 +20,7 @@ namespace PareITELEC1C.Controllers
 
             new Student()
             {
-                StudentId=1,
+                StudentId=2,
                 StudentFirstName = "Jastin",
                 StudentLastName = "Leano",
                 Course = Course.BSCS,
@@ -31,7 +31,7 @@ namespace PareITELEC1C.Controllers
 
             new Student()
             {
-                StudentId=1,
+                StudentId=3,
                 StudentFirstName = "Gian Lloyd",
                 StudentLastName = "Laberinto",
                 Course = Course.BSIS,
